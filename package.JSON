@@ -1,5 +1,5 @@
 {
-  "name": "Quick-Chat",
+  "name": "Doodle-Chat",
   "version": "0.0.1",
   "description": "Simple chat app using socket.io",
   "dependencies": {
